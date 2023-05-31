@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "file-saver": "^2.0.2",
-    "xlsx": "^0.14.1"
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.19.3/xlsx-0.19.3.tgz"
   },
   "scripts": {
     "lint": "node_modules/.bin/goodparts lib"
